@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-03T19:19:01 IST" name="Suite" finished-at="2023-02-03T19:20:09 IST" duration-ms="68408">
+    <groups>
+    </groups>
+    <test started-at="2023-02-03T19:19:01 IST" name="Test" finished-at="2023-02-03T19:20:09 IST" duration-ms="68408">
+      <class name="Test_Classes.Test_1">
+        <test-method is-config="true" signature="openBrowser23()[pri:0, instance:Test_Classes.Test_1@3349e9bb]" started-at="2023-02-03T19:19:01 IST" name="openBrowser23" finished-at="2023-02-03T19:19:41 IST" duration-ms="40504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser23 -->
+        <test-method is-config="true" signature="login22()[pri:0, instance:Test_Classes.Test_1@3349e9bb]" started-at="2023-02-03T19:19:42 IST" name="login22" finished-at="2023-02-03T19:19:54 IST" duration-ms="12465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login22 -->
+        <test-method signature="verifycreatenewBtn()[pri:0, instance:Test_Classes.Test_1@3349e9bb]" started-at="2023-02-03T19:19:54 IST" name="verifycreatenewBtn" finished-at="2023-02-03T19:19:54 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycreatenewBtn -->
+        <test-method is-config="true" signature="logout22(org.testng.ITestResult)[pri:0, instance:Test_Classes.Test_1@3349e9bb]" started-at="2023-02-03T19:19:54 IST" name="logout22" finished-at="2023-02-03T19:19:57 IST" duration-ms="2656" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifycreatenewBtn status=SUCCESS method=Test_1.verifycreatenewBtn()[pri:0, instance:Test_Classes.Test_1@3349e9bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout22 -->
+        <test-method is-config="true" signature="login22()[pri:0, instance:Test_Classes.Test_1@3349e9bb]" started-at="2023-02-03T19:19:57 IST" name="login22" finished-at="2023-02-03T19:20:06 IST" duration-ms="8992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login22 -->
+        <test-method signature="verifyusername()[pri:0, instance:Test_Classes.Test_1@3349e9bb]" started-at="2023-02-03T19:20:06 IST" name="verifyusername" finished-at="2023-02-03T19:20:07 IST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyusername -->
+        <test-method is-config="true" signature="logout22(org.testng.ITestResult)[pri:0, instance:Test_Classes.Test_1@3349e9bb]" started-at="2023-02-03T19:20:07 IST" name="logout22" finished-at="2023-02-03T19:20:08 IST" duration-ms="1120" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyusername status=SUCCESS method=Test_1.verifyusername()[pri:0, instance:Test_Classes.Test_1@3349e9bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout22 -->
+        <test-method is-config="true" signature="closeBrowser23()[pri:0, instance:Test_Classes.Test_1@3349e9bb]" started-at="2023-02-03T19:20:08 IST" name="closeBrowser23" finished-at="2023-02-03T19:20:09 IST" duration-ms="1711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser23 -->
+      </class> <!-- Test_Classes.Test_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
